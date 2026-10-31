@@ -1,0 +1,75 @@
+{
+  "code": "KWU",
+  "title": "SMASH KWU",
+  "school": "광주여대",
+  "fullName": "광주여자대학교",
+  "campusName": "광주여자대학교",
+  "tagline": "광주여대를 부셔 (시험기간 스트레스 해소)",
+  "description": "광주여자대학교를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 광주여자대학교 3D 화면과 SMASH KWU 제목",
+  "url": "https://hong-iron.github.io/SMASH-KWU/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "way",
+    "id": 472475877
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "exclude": [
+    {
+      "at": [
+        35.1642251,
+        126.7992012
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 체육관 동쪽 포장된 광장 자리라 사진에 서 있는 건물이 없고, 기록도 이름과 층수가 비어 있다."
+    },
+    {
+      "at": [
+        35.1642726,
+        126.7968505
+      ],
+      "n": "주차장",
+      "why": "항공사진에 없음 — 건물 기록이 지상 0층, 지하 1층짜리 지하 주차장이라 땅 위에는 차가 서 있는 노천 주차장만 있다."
+    }
+  ],
+  "look": {
+    "시립유니버시아드체육관": {
+      "style": "glass",
+      "wall": "#d4dce4",
+      "glass": "#46636a",
+      "frame": "#b6bfc8"
+    },
+    "무등관": {
+      "style": "brick",
+      "wall": "#86655d",
+      "glass": "#3a5566",
+      "frame": "#c4c8cb"
+    },
+    "어등관": {
+      "style": "brick",
+      "wall": "#c4a090",
+      "glass": "#4f5052",
+      "frame": "#ddd6cc"
+    },
+    "황룡관": {
+      "style": "brick",
+      "wall": "#7a5a52",
+      "glass": "#33363a",
+      "frame": "#d6d2c8"
+    },
+    "정보통신관": {
+      "style": "ribbon",
+      "wall": "#7a5545",
+      "glass": "#2b4664",
+      "frame": "#c4c4ca"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
+}
